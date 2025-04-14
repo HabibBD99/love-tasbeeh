@@ -19,6 +19,12 @@ color: white;
  padding: 100px 0px;  
 
 }
+.Image{
+height: 260px;
+width: 300px;
+
+}
+
 .Download_Button{
 padding: 40px 30%;
 background-color: burlywood;
@@ -65,7 +71,12 @@ transition: 0.2s;
             transition: 0.2s;
             
       }
-             
+
+      .Image{
+        height: 220px;
+        width: 260px;
+        
+     }          
     
 }
 
